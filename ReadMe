@@ -12,6 +12,6 @@ The queries deployed looked at:
   Continents with the highest death count per population
   The rolling count of people vaccinated and how the deaths were affected by it. This required me to join both tables and use a CTE
   
- Finally, the results of these queries were downloaded and trasferred to Tableau for visualization.
+ Finally, the results of these queries were downloaded and transferred to Tableau for visualization.
   
   
