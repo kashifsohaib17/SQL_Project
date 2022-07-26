@@ -8,9 +8,9 @@ The queries deployed looked at:
   Total cases, deaths, death percentage, and population of each country.
   Total cases, percent of population infected in the United States.
   Countries with the highest infection rate compared to their population.
-  Countries with the highest death count per population
-  Continents with the highest death count per population
-  The rolling count of people vaccinated and how the deaths were affected by it. This required me to join both tables and use a CTE
+  Countries with the highest death count per population.
+  Continents with the highest death count per population.
+  The rolling count of people vaccinated and how the deaths were affected by it. This required me to join both tables and use a CTE.
   
  Finally, the results of these queries were downloaded and transferred to Tableau for visualization.
   
